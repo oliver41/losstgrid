@@ -1,0 +1,14 @@
+{
+  "name": "lost-grid",
+  "homepage": "https://github.com/corysimmons/lost",
+  "version": "6.5.0",
+  "_release": "6.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "6.5.0",
+    "commit": "c6606cf2880d13226216191a991b4d7a41b7d037"
+  },
+  "_source": "git://github.com/corysimmons/lost.git",
+  "_target": "~6.5.0",
+  "_originalSource": "lost-grid"
+}

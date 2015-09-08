@@ -1,0 +1,29 @@
+{
+  "name": "op2020",
+  "version": "0.0.1",
+  "authors": [
+    "Oliver Pfeiffer <oliverpfeiffer@me.com>"
+  ],
+  "description": "07.05.2015 - BootsrapSass with Susy and Breakpoint",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5",
+    "fontawesome": "~4.3.0",
+    "normalize-scss": "~3.0.3",
+    "susy": "~2.2.5",
+    "breakpoint-sass": "~2.5.0",
+    "outline": "~1.1.0",
+    "lost-grid": "~6.5.0"
+  }
+}
